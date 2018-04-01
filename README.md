@@ -4,7 +4,7 @@ Uma implementação simples dos fractais de Mandelbrot, em Excel - VBA.
 
 Fractais são estruturas auto-similares, belas peças geométricas estudadas por pesquisadores como Benoit Mandelbrot, nos anos 60 e 70.
 
-!(https://ferramentasexcelvba.files.wordpress.com/2018/04/fractals01.jpg)
+![](https://ferramentasexcelvba.files.wordpress.com/2018/04/fractals01.jpg)
 
 O conjunto Júlia foi bastante estudado por Mandelbrot, e baseia-se numa equação muito simples:
 
@@ -25,8 +25,8 @@ Exemplos:
 
 Pelo menu do lado, pode-se navegar pela região do espaço, e escolher a resolução (quanto maior, mais demorado para criar).
 
-!(https://ferramentasexcelvba.files.wordpress.com/2018/04/fractals02.jpg)
+![](https://ferramentasexcelvba.files.wordpress.com/2018/04/fractals02.jpg)
 
 Detalhamento de outra região do espaço de Mandelbrot.
 
-!(https://ferramentasexcelvba.files.wordpress.com/2018/04/fractals03.jpg)
+![](https://ferramentasexcelvba.files.wordpress.com/2018/04/fractals03.jpg)
